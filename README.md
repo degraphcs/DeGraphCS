@@ -6,11 +6,11 @@ This project provides a collection of datasets and source code which are used in
 
 1. Dataset
  
-2. Baseline methods
+2. DeGraphCS Source Code
 
 3. Variable-based Flow Graph Construction
 
-4. DeGraphCS Source Code
+4. Baseline methods
 
 5. User Study
 
@@ -23,14 +23,14 @@ The raw datasets can be accessed in [Google Drive](https://drive.google.com/file
 
 To feed into our model, we first generate Variable-based Flow Graph of 41152 methods and extract corresponding comments. Then we split the datasets into 39152 training set and 2000 test set. All of the data are puted in `dataset/` directory. 
 
-## Baseline Methods
-We have reproduced other code search works which are putted in `Baseline methods/` directory.
-
-## Variable-based Flow Graph Construction
-We provide graph construction code to help users to generate Variable-based Flow Graph which are puted in `IR2graph/` directory.
-
 ## DeGraphCS Source Code
 We provide DeGraphCS model code which are listed in `src/` directory.
+
+## Variable-based Flow Graph Construction
+To construct Variable-based Flow Graph according to llvm IR, We provide graph construction code to help users to generate graph which are puted in `IR2graph/` directory.
+
+## Baseline Methods
+We have reproduced other code search works which are putted in `Baseline methods/` directory.
 
 ## User Study
 We make a user study to evaluate our model. 
