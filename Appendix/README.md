@@ -35,7 +35,7 @@ sum = N + get_sum(N-1) // in recursive call
 <img src="https://github.com/degraphcs/DeGraphCS/blob/main/Appendix/subgraph_compare.png" width="600" height="400" alt="the constructed graph"/><br/>
 
 #### The corresponding generated AST and CFG of the two above realizations, the difference is obvious:
-<img src="https://github.com/degraphcs/DeGraphCS/blob/main/Appendix/baseline_comparison.png" width="600" height="600" alt="the constructed graph"/><br/>
+<img src="https://github.com/degraphcs/DeGraphCS/blob/main/Appendix/baseline_comparison.png" width="600" height="500" alt="the constructed graph"/><br/>
 
 ## The details of the equations and algorithms in deGraphCS
 ### The realization details of the attention mechanism on the whole graph and the comments
