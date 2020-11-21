@@ -24,7 +24,7 @@ int get_sum(int N){
 }
 ```
 ### The corresponding generated variable-based flow graphs are shown as below:
-<img src="https://github.com/degraphcs/DeGraphCS/blob/main/Appendix/vfg_of_loop_recur.png" width="300" height="300" alt="the constructed graph"/><br/>
+<img src="https://github.com/degraphcs/DeGraphCS/blob/main/Appendix/vfg_of_loop_recur.png" width="600" height="300" alt="the constructed graph"/><br/>
 
 ### To better illustrate the common charateristics of variable-based flow graph constructed by deGraphCS from the above two different realizations, we extract the core part of the two realizations to make comparison:
 ```
