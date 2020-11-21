@@ -1,16 +1,57 @@
-### Hi there 👋
+# DeGraphCS
 
-<!--
-**degraphcs/DeGraphCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Project Overview
+This project provides a collection of datasets and source code which are used in our DeGraphCS model. The content of project is as follows:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. Appendix
+ 
+2. Baseline methods
+
+3. dataset  
+
+4. IR2graph
+
+5. src
+
+6. user study
+
+## Raw Datasets
+To help people to reproduce our work, we provide raw datasets which are consist of **C code snippet**, corresponding **code comment** and **generated IR**.
+
+The raw datasets can be accessed from [Google Drive](https://drive.google.com/file/d/1PZ9TAfsrSlXLDpOCp6-0aZQxrzlP4kBA/view?usp=sharing)
+
+## Dataset
+To feed into our model, we first generate Variable-based Flow Graph of 41152 methods and extract corresponding comments. Then we split the datasets into 39152 training set and 2000 test set. All of the data are puted in `data/github15/` directory. 
+
+## Baseline Methods
+
+## IR2graph
+We provide graph construction code to help users to generate Variable-based Flow Graph which are puted in `IR2graph/` directory.
+
+## src
+We provide DeGraphCS model code are listed in `src/` directory.
+
+## User Study
+We make a user study to evaluate our model. 
+
+50 queries of the user study are listed in the `user study/queries.txt`. And according to four models (UNIF, MMAN, DeepCS and DeGraphCS), we obtain corresponding searching result which are listed in  `user study/` directory.
+
+# Running Our Model
+## Generate Datasets and Build Dictionary
+Run the command to split comments datasets into training set and test set, and build dictionary
+```
+python util_desc.py
+```
+Run the command to split Variable-based Flow Graph datasets into training set and test set, and build dictionary
+```
+python util_ir.py
+```
+## Train the DeGraphCS Model
+```
+python train.py
+```
+## Test the DeGraphCS Model
+```
+python test.py
+```
