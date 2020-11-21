@@ -3,26 +3,29 @@
 ## An example to show the recursive call and loop functions can be represented as close as possible from our variable-based flow graph
 ### An example "get sum" function realized by recursive call
 ```
-int f(int n){
-    int res = 0;
-    while(n){
-       res += n;
-       n-=1;
+int get_sum(int N){
+    int sum = 0;
+    while(N != 0){
+       sum += N;
+       N-=1;
     }
-    return n;
+    return sum;
 }
 ```
 ### An example "get sum" function realized by loop functions
 ```
-int f(int n){
-    if(n == 0){return n;}
+int get_sum(int N){
+    if(N == 0){return N;}
     else{
-       int res;
-       return res = n + f(n-1);
+       int sum;
+       sum = N + get_sum(N-1);
+       return sum; 
     }
 }
 ```
-### The unique variable-based flow graph constructed by deGraphCS from the above two different realizations
+### The corresponding generated variable-based flow graphs are shown as below:
+
+### To better illustrate the common charateristics of variable-based flow graph constructed by deGraphCS from the above two different realizations
 <img src="https://github.com/xxx-ano/Online-Repo/blob/main/example_recursive.jpg" width="300" height="300" alt="the constructed graph"/><br/>
 
 ## The details of the equations and algorithms in deGraphCS
