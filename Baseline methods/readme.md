@@ -21,6 +21,8 @@
   organization={IEEE}
 }
 ```
+### MMAN(TDC)
+Exploit Token + Variable-based data flow + Variable-based control flow to perform code search tasks
 ### AST-Att 
 Exploit AST and the attention mechanism to perform code search tasks
 ### Tok-Att
