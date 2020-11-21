@@ -1,4 +1,4 @@
-# Core part of deGraphcS
+# Core parts of deGraphcS
 configs.py            --Config the hyper-parameters of deGraphCS
 
 dataloader.py         --Load the data in batch
