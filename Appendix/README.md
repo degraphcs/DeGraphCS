@@ -52,7 +52,7 @@ h_vfg means the final weighted sum embedding of the whole graph (the weighted su
 
 ### The aggragation function used in Equation (1)
 The aggregation function used in Equation (1) can be illustrated as follows:
-<img src="https://github.com/xxx-ano/Online-Repo/blob/main/propagation%20model.png" width="800" height="120" alt="propogation model"/><br/>
+<img src="https://github.com/degraphcs/DeGraphCS/blob/main/Appendix/propagation%20model.png" width="800" height="120" alt="propogation model"/><br/>
 
 In the functions above, Eq. 1 is the initialization step, which copies node annotations into the first components
 of the hidden state and pads the rest with zeros. 
