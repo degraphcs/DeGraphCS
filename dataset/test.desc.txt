@@ -1,0 +1,2000 @@
+set p bt n page field correctly according to current state of database 
+return if certificate is revoked or otherwise 
+write byte to output buffer 
+set current goal column which is saved in external variable curgoal to current cursor column 
+read first five initial bytes into rc code if they haven been read already 
+build table to divide by number of voices 
+return previous pair if key is found last pair otherwise 
+advance cursor to next entry in database 
+is used to parse temperature and pressure calibration data and store it in device structure 
+try to forward message to unicast mac 
+find broadcast address fills device broadcast address based on information found by check device function 
+os unlink unlink abstraction layer 
+setepd bl buf count description set number of bytes in buffer of double buffer endpoint 
+get field and width arguments for field manipulation functions checking whether they are valid 
+verify that active targets were made 
+decode chunk of xml text encoding real 
+free some memory and remove tracking for it 
+inner mono thresholding code 
+get list of presets 
+reps returns number of times that current position has been repeated 
+install new value into list 
+another built in collating sequence nocase 
+take unicode codepoint and produce its utf encoding 
+create new object class 
+ud lookup mnemonic looks up mnemonic code in mnemonic string table 
+move sol state forward dt seconds 
+ud opr is sreg returns non zero if given operand is of segment register type 
+generate code for unconditional jump to instruction i dest 
+calculate minimum and desired combat ranges 
+return rowid of most recent insert 
+get child args start pos get position where child args start 
+as function of digest size and keylen 
+handle ucg msg draw l se message and make calls to dev cb with ucg msg draw pixel return if something has been drawn 
+suff suff is suffix see if suff is suffix of str 
+remove all elements in list 
+saves gamma parameters of current dataset 
+emit binary op is called to handle simple binary ops except for assign 
+next function to query and retrieve next that stratifies predicate of cursor 
+get position which corresponds to start of next clip 
+set value from integer 
+fse count wksp same as fse count but using externally provided scratch buffer 
+return data area header num 
+search monster item and feature types to find meaning for given symbol 
+grow dynamic array to accommodate index 
+return friendcon id corresponding to real public key on success 
+enable asynchronous notification for descriptor 
+size of mpeg frame 
+print credential structure content to stdout 
+cg entity effects add continuous entity effects like local entity emission and lighting 
+is less strict than original markdown mail address matching 
+function read val description read from xsvf num bytes bytes of data into 
+open memory mapping used for ipc 
+tests whether polynomial has all zero coefficients 
+write block to record 
+second protothread function 
+remote to local file path 
+return clip index of specified position 
+make into random string of length len excluding null character with alphanumeric characters 
+return glyph control box 
+look at start of file to determine if it appears to be transport stream 
+allow caller to set alarm flag that tdb can check to abort blocking lock on sigalrm 
+returns new reference pointing to obj ptr having cmd name ptr as finalizer command or null if there is no finalizer 
+get bitmask of present nodes including offline nodes return value success failed 
+return address of next avaiable slot within pt slots chunk 
+return pointer to file system object associated with page passed as only argument 
+function event get data arguments eh event handler returns data field 
+stop logging messages to syslog 
+final generated code for final hash 
+abqp eek peek at head of abq 
+some global variables so that user can change soa origin minfo and format of soa serial number if needed 
+dynamic buffer overrun overrun in while loop 
+get string value by name at frame position 
+render bignum into decimal 
+add entry with text text to history list with type type hist xxx in player history and artifact number id for everything else 
+look in system dictionary for match to given name 
+remove element from row vector 
+create fts iter that iterates through doclist provided as second argument 
+yes following functions could be implemented as preprocessor macros instead of inline functions but think that approach will be more clean in case 
+return name and description of currently selected option 
+get garray containing glist 
+abs and labs do same thing 
+violates standard by lying on structure alignment 
+suff remove remove suffix into list results none side effects reference count for suffix is decremented and suffix is possibly freed 
+tess mesh set winding number resets winding numbers on all edges so that regions marked inside polygon have winding number of value and regions outside have winding number of 
+take next playsound and begin it on channel 
+prints virtual machine status 
+same as arena enter but for few functions that need to be reentrant with respect to some part of mps 
+jx int x write void const void jx int 
+load bignum from unsigned integer 
+inherit object interface from another object interface 
+bot script action set attribute returns qfalse if error 
+ingroup tsk fsm group add entries states to fsm 
+call wx sqlite walk expr for every expression in list or until abort request is seen 
+outputs integer as little endian 
+find string that is not found anywhere in 
+grab lock on mutex 
+quiesce is recursive minimax search function with alpha beta cutoffs 
+return global irq number corresponding to given device irq pin 
+core commands utility functions 
+method is used to force vacuum up to current version 
+function strchr searches for first occurrence of character unsigned char in string pointed to by argument str 
+free allocated storage for various packet tyoes 
+convenience functions for all drawcommands 
+search for matching key returning pointer to entry inside zipmap 
+interp proc when tcl procedure gets invoked routine gets invoked to interpret procedure 
+actually creates thread which services virtqueue for device 
+handle date change request on slave 
+advance carray cursor to its next row of output 
+iterates through entries pairs in map invoking callback for each 
+split string into args respecting backwhacks and quotes 
+read character without echo 
+retrieve page from pager cache 
+sets word breaking information for generic input string 
+abstract type for pointer to io method finder function 
+stack setters object creation 
+called just before entering prom or kmdb but after all other cpu s have entered idle loop 
+sets fifo watermark level in sensor 
+return artifact power by generating fake object based on artifact and calling common object power function 
+strip any of set of chars from end of sbuf 
+returns argument rounded up to nearest integer 
+ficl interface to chdir win 
+grd dospl compute gradient of single sample choosing between maxent optimised codepath and classical one depending of sample 
+generate vdbe code for rollback statement 
+convert utf string to gsm byte string return number of septets written 
+routine iran generates integer random number between ilow and ihigh 
+reset range decoder 
+map single hash byte to enumerated value 
+libwebsockets get protocol returns protocol pointer from websocket connection 
+name pqclean dilithium clean csubq description subtract if input coefficient is bigger than 
+get correct monster glyphs 
+convert ascii name like www samiam org in to dns form of same name www samiam org 
+create new thread safe queue of size sz 
+delete home dir object 
+push integer to end 
+ingroup tsk params group checks if supplied list of parameters contains parameter named 
+write content to logical 
+reads raw data from mobib uffer and pads it with zero character 
+ingroup tsk sha group function accepts array of octets as next portion of message 
+is walker callback from sqlite expr references updated column 
+build new avs frame starting with given item which is copied so may be freed after call 
+fl is error tells if return value is error code 
+transfer error message text from keen io sqlite vtab z err msg text stored in memory obtained from keen io sqlite malloc into vdbe z err msg text stored in memory obtained from keen io sqlite db malloc 
+display player knowledge menu greying out items that won display anything 
+cmos opt table print fn display function for cmos opt table item of coreboot table 
+restart timer from current point in time 
+return total number of vm instructions recorded so far 
+enable it source 
+returns file name without path 
+unsigned bit modulo 
+get raw record from stream 
+wrappers for directory function 
+chain gens return number of generation in chain 
+printf to shl out stderr with flush 
+util getexecname return name of current executable 
+read machine uptime independently of number of processors 
+process pipe process input from stdin 
+min eigenvalue given three distinct elements of symmetric matrix gxx gxy gxy gyy returns minimum eigenvalue of matrix 
+getfnr description returns fnr register value 
+shrink down used index to half 
+compute string length that is limited to what can be stored in lower bits of bit signed integer 
+sv web read outgoing queue cmds called from web server thread 
+one or more segments have just been removed from absolute level i abs level 
+store allocated length in plen if non null 
+signature validation for certificates 
+add given object to given monster inventory 
+print game board to file 
+find flash memory layout by its name 
+add input samples to input buffer 
+gpio init description initializes gpio x peripheral according to specified parameters in gpio init struct 
+display ethernet address in readable format 
+keen io sqlite column  following routines are used to access elements of current row in result set 
+todo make buffer size controllable by option and compiler can pass size to runtime via variabl 
+find name when passed string 
+free dirty page 
+load amf data from file stream 
+free lib ds camera object and all of its resources 
+not very precise sleep 
+free slow log entry 
+key addition that also packs every byte in key to word rep 
+object array init 
+scan expecting any of given token 
+if necessary expand stringbuffer t buffer to accomodate specified additional size 
+sprite release releases sprite module 
+display current view of skin 
+function fdmdv freq shift coh author david rowe date created may frequency shift modem signal 
+string get current user returns name of current working user 
+store integer in register 
+set time of ink out effect animate to released state 
+decode vfr hud message into struct 
+determine if given point is to left of right of or on segment 
+getrand get random number between and 
+test observation data message 
+function starts write transaction on wal read transaction must have already been started by prior call to keen io sqlite wal begin read transaction 
+store in ret string with enough pad chars added to reach size 
+needed even when function built in is disabled 
+print message from string customised to include details about object 
+stop stream server start stream server args strsvr t svr io stream server struct char cmd input stop command null no cmd return none 
+atcac ommand nonce method 
+compute inverse of affine decomposition 
+amstf inish pool class finish method 
+handler for usr signal 
+handle cursor position change because arrow keys were pressed 
+get height of calendar day names based on it style 
+arena denounce remove arena from global ring of arenas 
+strip out ip options at higher level protocol in kernel 
+to get singly linked list in alpha order while inserting entries at beginning process directory entries in reverse alpha order 
+turn bulk memory into row set object 
+determine whether it is safe to follow indirect 
+return true if first score is at least as good as second 
+deallocate dice object 
+set or reset congestion control algorithm 
+signals dispatcher to stop whatever it doing 
+tess mesh tessellate interior tessellates each region of mesh which is marked inside polygon 
+zstd update stats assumption literals lit lengtn 
+how many logical bitstreams in physical bitstream 
+get local time offset in seconds for certain utc instant 
+ckopen open file check for success 
+count number of lines of particular type currently surrounding given face 
+nailboard size return total size of nailboard 
+set new value on line meter 
+enables flat interrupt 
+sets fifo self wake up functionality in sensor 
+return number of pages still to be backed up as of most recent call to keen io sqlite backup step 
+interrupt pins hardware signal configuration set 
+read pcm fixed to bit 
+accessor for current gateway configurationreturn pointer to current config 
+initialize encryption keys and random header according to given password 
+wrapper around fast quasi modp functions with fall back to mbedtls mpi mod mpi 
+acquire reference to page number pgno in pager p pager page reference has type vedis page 
+normal pick function is linear search which is slow when there are lot of ranges 
+length of ucs string number of non zero ucs characters before zero 
+return clip at clip index 
+convert p mem to type integer 
+return index of th non switch argument 
+contrain maximum of range 
+op fxxx fxxx illegal instruction set format xxxx xxxx xxxx 
+cg localize server command nerve smf localize string sent from server localization is on by default 
+return true if expression p expr is vector or false otherwise vector is defined as any expression that results in two or more columns of result 
+touch all pages in cursor stack 
+new params creates new params structure 
+attribute reference orientation to each keypoint of list in 
+print performance of code 
+spawn item sets clipping size and plants object on floor 
+interprets as pqclean sphincsshake ssimple clean fors height bit unsigned integers 
+zstd decompress continuedc tx dctx must have been properly initialized 
+getspnam get entries from shadow database 
+allocate cache entry 
+return false if we are not connected to dht 
+determine maximum argv size 
+pad given buffer with len padding characters 
+dump nodes in onion path to nodes of length num nodes return on failure 
+seg walk walk objects in segment 
+utility to dump unsigned value into buffer given start pointer and and end pointer which should point just beyond end of buffer 
+name vol writemdb description flush master directory block to medium 
+called when i amt bytes are read from offset i off of wal file while rbu object is in capture mode 
+given fully processed dns details object which is for incomplete ns referral create special ns referral string to store in cache ns referral starts off with dlabel describing dns space particular ns record covers 
+sigprocmask examines or changes calling processes signal mask 
+print number to buffer 
+multiply matrix matrix by vector in and return result in out 
+write data in output buffers to client 
+returns corresponding mobj type from mapthing number 
+since m pi can be relied on 
+int x readable const char 
+closes asset deletes temporal filename 
+memmove is defined here because some vendors don provide it at all and others do terrible job like calling malloc 
+mean obliquity of ecliptic 
+message key in game talk message 
+computes wallet version of current wallet 
+tracefinis complete generate trace call to print 
+pools display event fifo takes events from there and packetize them into output buffer they are then sent as fast as socket will allow 
+finds given entry inside resource pack 
+merges small patch parts to bigger ones 
+closes open address hash instance of dictionary 
+writes configuration file based on current state 
+get dimensions of given bmp file 
+calculate serialized size of unknown field 
+function assumes that output buffer is properly written and pos variable holds size of buffer 
+description is main worker thread it loops forever grabs fresh frame and calculates focus 
+parse string that is result of format return true if is of proper format 
+change protection of mc ode area 
+send zero bits on fd 
+check whether flags specified by mask can be set to new values 
+free tree not including freeing elements 
+finite arg not infinity or nan 
+callback which will be called whenever successful set configuration request see section of usb specification is encountered 
+cretae list head and initialize it to nil 
+mps fmt create fixed create object format of variant fixed 
+hellotype type methods 
+point to next expression that 
+redirect output someplace else 
+tess mesh union forms union of all structures in both meshes and returns new mesh old meshes are destroyed 
+putorbits writes orbits to as lists of integers separated by semicolons 
+expression comma arrow handles commas and arrows 
+return whether each stack of objects can be merged into one stack 
+returns rating of depending on and sets attr to corresponding attribute 
+regc emit if appropriate byte of code 
+hack to clear all changed flags after game start 
+set shake rejection timeout 
+convert float to dword 
+disable screen splitting 
+generic bitmap get function used in font get bitmap when font contains all characters in range 
+return if image starts with compressed data if it starts with uncompressed low order bits 
+line format name type rpi tag string 
+execute rollback if transaction is active and unlock database file 
+add extension to filename 
+placeholder parse hook indicating value is ignored 
+set ith bit 
+rotate rows in one position upwards and xor in 
+mmcdevice getmmcd evice int drive if drive 
+regsub perform substitutions after regexp match 
+convert string representing boolean value to boolean value 
+parse and evaluate expression storing result in vp 
+returns next token 
+multiply matrix wrapper of blas dgemm multiply matrix by matrix 
+which contains specific sfnt table 
+read game from file 
+write privilege have been acquired on page 
+cy dma get preemptable summary returns whether or not descriptor is preemptable 
+mm free freeing block does nothing 
+subst substitute one expression for another 
+name ucs utf duplicate description duplicate and encode ucs string into utf 
+create initialized transform 
+function to build single bit table table consists of num entry subtables where num is determined by shift amount to shift input values right or number of signifiant bits 
+string zip entry read resource zip entry int length 
+term term mod factor 
+read in next pes packet from input file reader is pes reader context 
+list of action choice combinations 
+is used to convert gyro raw data to rps output as double 
+launch pager for help output 
+address ok if configured 
+read one word from onboard ram 
+set application defined function for printing warning messages 
+convert expression of following forms to size t positive decimal number optionally followed by multiply by 
+transform numerator and denominator coefficients of domain biquad section into corresponding domain coefficients 
+set source location 
+ptrheap getmin return minimum pointer in heap 
+init path init include path 
+compare content at adr with content at ram buffer 
+hash bucket size is up to 
+make sure png image has been freed validates that libpng is doing what spec says and freeing image 
+get proc stats lookup single tasks information and fill out proc t 
+add declaration element behind insertion position 
+ud disassemble disassembles one instruction and returns number of bytes disassembled 
+return true if z name is shadow table name in current database connection 
+generate code that will erase and refill index p idx 
+run through all timers call ones that needs it clear ones that wants it and calculate next potential cycle we could sleep for 
+decode dequantize squared gain 
+print all timed effects 
+check whether there are any more connect options 
+light off led 
+function assumes that inst add src reg and inst add src reg aren both negative 
+get current direction of test 
+draw line where there is no buffer text 
+set target function is used to keep track of pointer references to mobj thinkers 
+return nonzero if has any special globbing chars in it 
+iteration to improve nfa count additive error and compute nfa 
+emp seniority compare compare by seniority 
+inline state get safe token const device config device assert device 
+temporary ip address 
+use of general directory scan function dump dir 
+return true if regexp literal is allowed after token 
+index compare compare two nodes 
+interact with store 
+allocate new artifact set data structure 
+reset isa bus bugger controller 
+generate uniformly distributed random long ints 
+eval assign handles assignments where left is not subscript or dot access 
+generate error message in given buffer 
+fill index ai row est array with default information information to be used when we have not run analyze command 
+mark unreachable finalizable objects 
+errcnt is number of errors counted 
+get data from bootcom buffer 
+date rfc rfc mon aug 
+interpolate given tokens into unique jim obj returned by reference via obj ptr ptr 
+encode ucs string into utf string return number of utf bytes encoded including final zero quote may contain optional quoting table containing non zero for all ascii characters to quote 
+convert string into decimal value noting any size suffix 
+need to free nicename later 
+encode vfr hud struct on channel 
+add vector to list of edges if it is not already present and if it is not coplanar with other ones 
+clocks only one byte into given nrf register 
+print pseudo op to define word 
+is total buffer size tracked 
+ly prepare backlog of pages to modify freedb itself while reclaiming is prohibited 
+routine called by doprnt to output each character 
+return page number of last page on block i block 
+declare that function has been overloaded by virtual table 
+simple getter for syslog var 
+describe objects that can be used for digging 
+version matthew dempsky public domain 
+find abbreviations use abbreviations to look for matching strings 
+make temporary cursor by filling in fields of p temp cur 
+flush all traces associated with prototype 
+draw moving missile 
+gc seg set buffer gcs eg method to change buffer of segment 
+mps class amc return pool class descriptor to client 
+drop object near player in manner suitable for debugging 
+update running crc with bytes buf len crc 
+returns length of buffer 
+return whether pointer is in heap 
+search file recursively 
+return size in bytes of ziplist 
+acquire dial server mutex 
+md process buffer 
+add file info into batch of files of given torrent 
+store tabulated temperatures and read effective mla rates from files 
+given list and callback function list will loop through all lit item t and call function for it 
+command incr key 
+create number with given size private very heavily used 
+name file selectfork description choose fork for file operations 
+encode string element pointed by of size len in target buffer 
+compress block of raw data and store it in output file 
+allocate and clean buffer optimize me 
+receives bytes from socket and returns or in case of recv error or in case of argument error 
+change current panel to panel lying in given direction 
+used to read accel slownomotion threshold from page one register from bit to 
+library namespace metamethods 
+line addq ea subq ea scc ea dcc dn addr 
+bt is range tests test bti s res range bti s set range 
+move to next document 
+getchar simple buffered version of getchar 
+creates new fs tring from string and inserts it at position in array 
+change entry count maintain load metrics 
+helper function for get mon num 
+dump character history to file which we assume is already open 
+function name bip strings init parameters none 
+callback used to check whether two boxed ints are equal 
+spawnge ntity from spawn vars spawn entity and fill in all of level fields from level spawn vars then call class specfic spawn function 
+redraw all scalars do if drawing command is changed later we ll use template information to select which ones we redraw 
+work out what flags message should have from monster 
+function intra chroma plane prediction functional description perform intra chroma plane prediction mode 
+print string using selected color 
+reads software revision id from register and it is two byte of data 
+true if feature is internally lit 
+initialize random artifacts 
+set pattern in sequence to play 
+return total number of pages in source database as of most recent call to wx sqlite backup step 
+look at start of elementary stream to try to determine its video type 
+call with table keyword table in struct keytab format number of entries in table xhlp pointer to help string xdef pointer to default keyword returns no input supplied and no default available input doesn uniquely match keyword in table user deleted too much command reparse required 
+set p iter b eof variable based on state of sub iterators 
+zstdmt get frame progression tells how much data has been consumed input and produced output for current frame 
+recover failure of two data blocks at indexes id id using parity at indexes ip ip for any raid level 
+failure culprit failure culprit invoc last invoc return information that engine has stored about goal responsible for most recent failure 
+name glp eval tab row compute row of simplex tableau synopsis int glp eval tab row description routine glp eval tab row computes row of current simplex tableau for basic variable which is specified by number if 
+these drawing routines assume window of around pixels 
+access pk type name 
+return all ports for one ip in list 
+performs hash map lookup 
+keep macro counts happy 
+create list object with initial string elements 
+routine rt prod computes product 
+bool class exists string class name bool autoload 
+process user command 
+ml init initialize map list 
+finds free file handle t 
+gets proper timezone in more portable fashion timezone variables are linux specific 
+seg class check check segment class 
+value array search value needle array haystack bool strict 
+add one more packet 
+deref decreases reference count of inode and frees it from table if there are no more references to it 
+get percent complete 
+rollback ir to previous state 
+hash return hash number for str 
+stats print memory statistics 
+position values start condition sla transfer 
+extract big endian bit integer 
+set code priority set code priority for multiple codes in frequency args int sys system or of sys  int freq frequency char pri priority of codes series of code characters higher priority precedes lower return none 
+read values from registers 
+works out background colour of given row 
+routine is called when reference count for page reaches zero 
+mov rd const xxx xxxx xxxxxxxx data processing bit op code rn dp imm rd imm byte byte byte byte xxxxxxx xxxxxxxx 
+return directory path based on solution dir and file name 
+cl show serverip f wsw pb show ip port of server client is connected to 
+parse entire file 
+function performs error handling as described in libdwarf consumer document section 
+extract child expression freeing outer expression 
+short adds character to block 
+return requests sensor analoge reading 
+compute power spectrum of half complex packed vector 
+can point to statically allocated data 
+lex reads next token from processed stream and stores it into ls ctok 
+static fastcall op strbt m reg off postind armcpu t cpu oldmode adr if cpu cpsr bits mode 
+is called from within debug call event handler and raises debug init event if it is first event in new debug session 
+pass buffer as argument 
+converts ascii hex string into integer 
+returns box that encloses and box d union box d union union 
+fast integral power function 
+unblock all events for given service 
+checks if directory is empty 
+simple string to double conversion 
+alaw linear convert law value to bit signed linear pcm 
+look up tag in tag table by name 
+replaced later with actual one 
+unescapes escaped characters in query 
+read bit unsigned integer from byte array in little endian format 
+in turns to out to 
+search format list for findme then delete it 
+provide information on ego item type 
+accumulate and convert simulation time to integer milliseconds 
+eval gamma compute steepest edge coefficients 
+skip data used to skip over potentially large amount of uninteresting data such as app n marker 
+parseline parse command line and build argv array 
+zstd ldm reduce table reduce table indexes by reducer value 
+we build vector for non standard encoding 
+copy sockaddr to storage value and return copied address length 
+der encoder of any type 
+return where in patch file hunk began for error messages 
+is ring pointing to mark 
+create new image int of size xsize times ysize 
+equality expr relational expr equality expr 
+set occupying monster for square 
+copy string reporting fatal error and exiting on failure 
+get rectangle enlarged to contain all contents meaning their formal bounds rectangles 
+routine configures and enables fault injector 
+unmaps set from memory but leaves it registered in set manager 
+make eqv hashtable make eqv hashtable returns newly allocated mutable hashtable that accepts arbitrary objects as keys and compares those keys with eqv 
+split playlist at absolute position 
+function deallocates any memory stored in graph 
+product matrix has size 
+abqd epth return number of elements in abq 
+is main get method handler 
+recovers from error in coroutine 
+todo currently ego items will order by e id 
+extract size returns size of given header value based on header specification above 
+change page size used by pager object 
+widget behavior for drawnumber 
+either of above according to selected output encoding 
+convert native integers into bits big endian integers 
+function computes maximum possible gain for vertex 
+skip len bytes in input file 
+encode fine phase range 
+apply given color translation to raster bits of image 
+query status information 
+tells if nb of seconds set in timed fn state for all runs is spent 
+release all memory held by segment writer object passed as first argument 
+delete all elements with rank between start and end from skiplist 
+since uncompressed block can be max in size it actually addsmultible blocks if needed 
+sets thread local storage pointer 
+single character not nullable derivative empty string if chr in or not in empty set otherwise 
+delete single entry from ziplist pointed to by 
+print all assertions related to given name 
+do inesmir ines mirror pseudo 
+return if everything went well 
+binary partition for substrings 
+mark vector containing val t values not pointers to them 
+we have hash slots 
+initialize marker writer module 
+put autoinscription on all objects on floor beneath player 
+read bit variable length integer from memory starting at 
+called periodically to read input devices 
+lookup block number in hash and allocate suj blk if it does not exist 
+refine tcol refine pivot column of simplex table 
+calculate crc over section of data 
+find first cmos enum id return pointer to first item in our list of enums that matches config id 
+save image given filename and image hands off to appropriate image saver 
+lightuserdata env function decode message table target string type string data lightuserdata pointer integer len table 
+write output in xml format 
+calculate coefficients for notch filter 
+if init parameters none function allocates state memory and initializes state memory returns pointer to encoder interface structure 
+reads hardware interrupt status from sensor 
+convert string into signed bit integer 
+initialize event module 
+determine if any of arguments to p expr function reference p src list 
+opcp ltf byte code 
+cy dma get interrupt source summary returns bit field of which channels generated interrupt request 
+print out first max bytes of byte array 
+push primary register onto stack 
+enable dma channel 
+is data length tracked 
+find fit find fit for block with asize bytes best fit alogrithm 
+counters for opcode groups 
+set signed bit field 
+check schema cookies in all databases 
+confirmbox selected option returns selected option or if nothing has been selected 
+allocate and assign growable string 
+invalidate any prior representation of given vedis value 
+store address of nodes value in given container 
+set or clear shell flag according to boolean value 
+analyse parse definition string that has been passed as argument with flag 
+continue at address 
+determine bit operation type from argument type 
+creates new node 
+count up number of tombstone entries in hash table 
+load amf data from stream 
+make room for element in front of queue 
+construct any mapping table used by associated put routine 
+scales up flag bitmap if necessary 
+description resets stream handle 
+expects bytes and capacity to be set computes ideal num 
+print schedule for debugging purposes 
+count bits in number 
+release xml engine 
+zstd init staticcd ict advanced generate digested dictionary in provided memory area 
+check for valid deflate stream state 
+unmap shared memory segment 
+encode chs reference 
+buf points to loc of current opcode start of instruction in instruction stream 
+faster version for 
+fastack jobid  jobid  
+get wait time before ink disappears 
+pevent filter match test if record matches filter 
+return alignment status of device 
+emit assembly code for move 
+ingroup tsk sha group function will return bit message digest into message digest array provided by caller 
+int inet pton convert from presentation format which usually means ascii printable to network format which is usually some kind of binary format 
+convert tabs to spaces one for one 
+addjob add job to job list 
+move cursor down to left most leaf entry beneath entry to which it is currently pointing 
+copy data from one spdy data structure into another 
+create valid checksum for current nvr data 
+reads variable length value from mobib uffer 
+vme out hex send character out as in hex format to output resource if available 
+mem heapsize returns heap size in bytes 
+b stream bs uu decode struct b stream s inp int badlines 
+call it periodically to handle lv tasks 
+remove memory object variable from reference table 
+add list element to list 
+int crc string str calculates crc polynomial of strin 
+parse variable declaration statement 
+cmap default change value that characters without mappings map to and return old value 
+quaked misc mg high notripod harc 
+prepend onto rule prereqs 
+compile var statement 
+initialize slow log 
+initialize hermite resampler 
+malloc function used within file to allocate space from buffer configured using systemdata sqlite config sqlite config pagecache option 
+write out resource compilation rules 
+copy block of int 
+add worker to list of worker threads 
+mat mul variation of mat mul where result matrix may be same as matrices or 
+memory print fn display function for memory item of coreboot table 
+fill in ide buffer with output of identify packet device command 
+converts current cbor type pointed by value to its textual representation and writes it to out stream 
+current position in history 
+begin general functions 
+open is given inode number and device number and makes entry in inode table for them or increases it reference count if it is already there 
+defgroup lis dsh private functions section collect all utility functions needed by api s 
+at end of deflate compressed ppp packet we expect to have seen stored block type value but not zero length bytes 
+display monster list interactively 
+count all possible tokens in symbol 
+encode servo output raw struct on channel 
+convert integer into log est 
+close and free resoures 
+determine whether id or id is closer to ref 
+integer comparison function for stdlib sorting algorithms 
+connect socket connects to remote host port and returns valid socket if successful 
+deletes texture containing entity nametag 
+enable dragging of object 
+remove spaces from left side of string 
+first character of string pointed to by argument is guaranteed to be open quote character see function fts isopenquote 
+propagate player knowledge of objects to all objects 
+deallocate value referenced by list 
+called to close file descriptors related to coprocess if any 
+read node from specified offset 
+read stats for current activity from file and display them 
+same as above but with gregorian date given in representation 
+true if value is ok 
+determine whether and are equal to within relative error of tol with two special rules 
+segger sysview name resource function description send name of resource to be displayed in system viewer 
+reads mag revision id from register it is byte of value 
+divides signed bit by signed bit and returns remainder 
+bool zip entry reset read cursor resource zip entry reset read cursor of open directory entry 
+direct table crc note that will be faster in future if we perform checksum simultaneously with other copies 
+create empty and closed upvalue 
+initialize limits and allocate memory 
+bool error log string message int message type 
+similar to iramsav but for xram memory 
+narrow forl index type by looking at runtime values 
+call with dirnam 
+change maximum number of in memory pages that are allowed before attempting to spill pages to journal 
+array array chunk array input int size bool preserve keys 
+aligns given pointer to ficl align address units 
+print lyx node tree convert node tree to lyx 
+compute new linear and angular velocities of bouncing ball 
+decode special characters preceeded by back slashes 
+analyze and order by or group by clause in simple select statement 
+call systemdata sqlite walk expr for every expression in list or until abort request is seen 
+update driver in run time 
+finish loading file 
+initialize global objects 
+twiddle two characters on either side of dot 
+function is called during initialization systemdata sqlite initialize to install default pluggable cache module 
+is basically fancier fgets that always eats line even if it only copies part of it 
+zstd checkcp arams control cp aram values remain within authorized range 
+initialize so that sf write will output to given stream 
+routine gr transform applies givens plane rotations to restore triangular structure of matrix 
+write is info write is specific info to config file 
+name latin length description return number of ucs chars represented by latin string 
+utility function to parse timeouts in addjob and other commands 
+deallocate all chunks from row set 
+make consecutive calls to sha update function to add new content to hash 
+remove constant multiplied by term 
+hide prefix is something so that we can automatically search symbol table and verify that none of these symbols were actually exported 
+turn p expr expression into alias for i col th column of result set in pel ist 
+get out point 
+decryption code is used for both eexec and charstrings 
+to minimize amount of work done in recursive solve function below going to allocate enough space for all legal rotations of each piece at each position on board 
+returns true if all chars are printable 
+push file onto input stack 
+boolean function to tell if given character can be part of word 
+minimum units to request 
+segger sysview stop function description stop recording system view events 
+permutes argv so that argument currently being processed is moved to end 
+ispvmm em manager allocate memory based on c target 
+refzero processing for duk hbuffer 
+encode rc channels raw struct 
+name glp eval tab col compute column of simplex tableau synopsis int glp eval tab col description routine glp eval tab col computes column of current simplex table for non basic variable which is specified by number if 
+cast line spell in every direction 
+rename file by appending number 
+emit branch on false condition 
+closed by symbol not preceded by whitespace and not followed by symbol 
+return product of quaternion by scalar 
+get element key 
+send just stored block type code without any length bytes or data 
+clear explosive nuke original entity 
+return it line number if not found return 
+reads data from fifo buffer 
+converts full exact set to approximate hll set 
+attempt to apply curses to object with corresponding increase in generation level of object 
+arch find archive see if given archive is one we are looking for 
+doubles value of byte for values up to 
+local database accesible through get  functions 
+reposition seek offset in process accounting file to skip processes that have not been read 
+get plane number by char 
+pool gen account for seg split accounting for splitting segment 
+paxwarn write warning message to stderr 
+fsm rconfnakrej receive configure nak or configure reject 
+return length of vector 
+update player light fuel 
+writes data to selected lcd register 
+decode tle line 
+save or list bytecode 
+function creates value list 
+set context from mbedtls ecp keypair 
+finds bit position of mg according to given range and resolution 
+subroutine version of macro putchar 
+get metadata about service 
+fs reorder pure paksnote tt imo reordering that happens here is not reflected in cvars cvarlist pak can lead to misleading situations see show bug cgi id 
+return true non zero if given symbol has destructor 
+check that entry in pointer map for page i child maps to page i parent pointer type ptr type 
+update phase increment counter of operator also update eg rates if necessary 
+you can both convert from vector to buffer size and vica versa 
+get stream status get current stream status args rtksvr t svr rtk server int sstat status of streams char msg status messages return none 
+editorhelp init initializes editor help screen 
+tests two bitfields for intersection 
+rewind offset vector iterator and start reading it from beginning 
+send file data 
+sets grapheme breaking information for generic input string 
+quaked func areaportal is non visible object that divides world into areas that are seperated when portal is not activated 
+remove node from lib ds file object 
+zstd v get frame params decode frame header or require larger src size 
+computes number of bytes of accel fifo data which is to be parsed in header less mode 
+convert byte or byte big endian integer into native integer 
+usernames can not have backslash in them and we use bb check if usernames can have forward slash in them bb backslash as domain user separator character 
+call to verify that pointer is fresh that it eitherpoints to real data or to head of list and that in either case object hasn disappeared since pointer was generated 
+zero contents of buffer object 
+returns string representation of count value that if possible is related to contents of some part of structure 
+json parser init initialize parser structure taking config config and its userdata 
+get pointer to active display return pointer to active display 
+virtual table module x column method 
+write number to bufer 
+search for enum member of given name 
+function is called when update or delete operation is being compiled on table p tab which is parent table of foreign key pfk ey 
+wrap strcmp for use with qsort 
+routine to tell if player is on either side of two sided object 
+note just because archive is not zip doesn necessarily mean it doesn have zip extended information extra field argh 
+get index among signal inlets of mth inlet overall 
+sends http ok header server string for few types of files it can also send content type based on file extension 
+create on memory hash database object 
+callback which is called whenever packet is received on interrupt in endpoint endpoint number transmit endpoint number 
+add catch entry vm wants to register new try block 
+sm hmac final digest 
+sets grapheme breaking information for utf input string 
+free parsed command line 
+mps sac create create sac object 
+randomize r initialize random generator 
+append nul terminated string z str to buffer p buf 
+set number of needles 
+convert sliced integers into bytes of data 
+get current position relative to in point 
+get minimum value of bar 
+get byte extract byte from word 
+reset function state prepare for pass 
+copy public key of frozen if frozen is true peernumber who is in groupnumber to pk 
+splay tree delete delete node from splay tree 
+add data to end of array 
+see if two tokens can be merged since they are compound sql phrases 
+perform multiplication operation between two bigints 
+connect to wire server pass it our command line argument options script we re going to execute and our mac address 
+update session information in cache 
+used to get soft pass through 
+equitable checks that partition at given level is equitable 
+update dimension calculate following variables uint t buf x left corner of buffer uint t buf x right corner of buffer excluded uint t buf y uint t buf y 
+apply permutation to array 
+qstring pap csp 
+generic next method that can be called on any operator 
+get bits extract value nr bits bits wide starting at bit position bit from value and return result 
+scalar arithmetic operations 
+consolidate adjacent blank producers 
+initialize templ theme 
+touch all nodes of tree returning check sum 
+when lang is not null converts it to two character language code othwerise tries to guess what language user wants from locale settings 
+utility routine to figure out where to put new text box from menu and whether to connect to it automatically 
+for use get non accessor entry value 
+quaked bot seek cover sequence point to bot seek cover spot that 
+bool is writable string filename tells whether filename is writable 
+compile list language construct 
+return number of successes that will occur before next failure 
+xrtnfrom special form return from 
+table rgb to index compress rgb array to indexed value 
+function will daemonize app 
+make irc connection 
+issue message about terminal interrupts 
+parse at parameter value 
+implode walker callback for ph array walk interface 
+delete animation for variable with given animator function 
+peephole optimizer for finished bytecode 
+copy raw value from one mobib uffer into another 
+xt nfa find nfa in dictionary from xt for immediate values 
+part builder data for both normal and translucent parts 
+create new handle with specified decoder decoder can be auto or null for auto detection 
+return group title size 
+build list of processes bound to specific cores 
+return current position in stream in bits from beginning of file 
+argument points to level of age 
+define macro defines new macro whom definition is given in command line syntax macro 
+keen io sqlite mutex enter and keen io sqlite mutex try routines attempt to enter mutex 
+sv mm get matchuuidt hink repeatedly query matchmaker for match uuid until we get one 
+merge cell with right neighbor 
+saves game configuration 
+fixme keep track of how big these get across several encoder calls and try to make estimate 
+sid sync reset parameters st state structure function initializes state memory returns void 
+initialize hash state 
+gets dfloor by id number 
+bot check movement autonomy if we wander outside out movement autonomy it better be for bloody good reason returns qtrue if we have moved outside autonomy range and need to get back 
+check if specified extension is flagged 
+return block at given row and column 
+todo also supposed to set tz values 
+relative path to 
+character string printing function 
+reads chip id from register it is byte of data 
+command to create directories 
+convert unsigned quad to double 
+compute total number of bytes that cell needs in cell data area of btree page 
+price functions for optimal parser 
+fixme replace these with termcap handlers 
+hook for closing file 
+elec rings and wands 
+based on command line arguments set ip we will bind to 
+function is called to configure rtree constraint object passed as second argument for match constraint 
+encode statustext struct 
+map interface name into its corresponding index 
+update hash key value attempts to set new value for given hash key 
+tries to translate language names statically 
+wide character needle at end of multibyte haystack 
+count set of brands 
+return true if named file exists 
+saves user preferences 
+dequeue byte from given byte fifo 
+reset hash scanner so that next element retrieved by hash scan next shall be first element on first non empty chain 
+return player chance to hit with particular missile and optionally launcher 
+putenv update or append environment name value pair 
+reverse byte order in signed short value with sign extension to integer 
+eval whole set evaluate model set over entire domain 
+get number of lines in scrollback 
+set  humidity and temperature average mode 
+de obfuscate firmware using xor operation with fixed length key 
+inverse of matrix inverse of matrix 
+set global interrupt polarity of irq out pin 
+decrypts several blocks in ecb mode 
+jx query rfc expand 
+perform actual square operion 
+append data to buffer 
+convert primitive token to primitive object 
+initialize path attribute 
+get field last action from limits status message return time of last recovery action in milliseconds since boot 
+str printf helper for printf type of command only and are implemented while dynamically allocating buffer 
+share object list instance 
+scan memory for breakpoints 
+put one byte into dictionary 
+changes flags field of most recently defined word 
+place place block of asize bytes at start of free block bp and split if remainder would be at least minimum block size 
+set name of month 
+types of ascii representations for keys 
+next get next command next direct object 
+get position value associated to name 
+ber decoder of any type 
+reads accel revision id from register it is byte of value 
+low level function that walks tree looking for string of len bytes 
+table library fast functions 
+block client for specific operation type 
+find minimum non absolute symbol address 
+static void ui draw join game type rect def t rect float scale vec t color int text style if ui join game type integer ui join game type integer ui info num join game types trap cvar set ui join game type 
+solve ne solve normal equation system 
+place char array into buffer 
+having got map in square grid convert it into graph representation 
+portable case insensitive strncmp 
+initializes chain node with given values and marks it as in use 
+bind to all ip addresses we are to bind to and return number of ip addresses we got or invalid socket on error 
+funcstatic gps d get get waypoint data 
+reads length of fifo data available in sensor in units of bytes 
+make return packet 
+compute earliest time and position of intersection of sphere and vertex 
+generate download paths 
+add new item to tail of list 
+dynamically allocate and initialize dictionary object 
+function calls ars d field off in order to return dynamically allocated string containing value of given field 
+warning these functions may trigger bus fault on some cpu s if unaligned address is accessed 
+xxx handle all unicode cases 
+map facility name to its number 
+interpret given string as boolean value 
+discharge non constant expression to any register 
+is used to provide information about platform 
+crc checksum verification routine 
+check if we are currently bailing out of parser due to parse error 
+return pointer to statement handler routine associated with given jx keyword if for while 
+converts keyboard scancode to ascii 
+set animation duration 
+hashes sector tags across sectors and linedefs 
+name glp set rii set change row scale factor synopsis void glp set rii description routine glp set rii sets changes scale factor for th row of specified problem object 
+write buffer to display ram 
+error reporting for argmatch 
+return number of repeats pending for current command 
+close up shop entirely 
+charsetname get tchar representing charset name or if none available 
+list of pointers to saved chunks 
+return part after 
+is nice utility function it determines if null terminated string consists of only digits starting with non zero digit 
+monster who is aware of player tries to let its group know 
+xxx having color  char text to attr separately is moronic 
+zstd adjustcp arams internal optimize c par for specified input src size and dict size 
+eliminate decode tree optimization actually requires codewords to be ms b first not ls b 
+common fold functions 
+closes socket fd clears any processes starts looking for new sockets 
+realign object based on last lv obj align parameters 
+read icmp statistics 
+call function or lua 
+et ri ft ri ft ri draws triangle with three corners 
+unregister vfs so that it is no longer accessible 
+handle wire connection from client 
+cg generate shaders util to create bunch of shaders in unique shader file which represent animation 
+eval func evaluate function call ex eval on all arguments so that all of them are terminal nodes 
+write len least significant hex digits of value at dest 
+returns distance between origin and plane measured along input direction 
+we need to create sft for entire structure when address is taken not just part in component reference itself 
+enable bracketed paste mode 
+convert error codes used by jbg dec in into string written in selected language and character set 
+function was added to libpng 
+unset active nodes remove range of lines from global active list 
+open client pipe 
+add whole list of operations to operation stack 
+remove next event that it older than specified timestamp 
+sets value of bucket to arbitrary value 
+returns approximate number of metrics dropped by all aggregators since last call to function 
+lst en queue add datum to tail of given list 
+sv cvar check f ask client to inform us of current value of cvar 
+translate network byte ordered ip address into its dotted decimal representation 
+command hkeys key 
+melee effect handler drain all of player stats 
+preformat text allocate and copy text buffer while performing tab expansion 
+function description function stops vbr controller return values 
+determine if specified position is blank 
+translates primary expression 
+next token find next token in string and return it 
+free sqlite value object 
+get crypto connection id from public key of peer 
+name push dependency description add new dependency to current list of dependencies 
+used to read accel any motion threshold from page one register from bit to 
+called when client has finished connecting and is ready to be placed into game 
+from string create md sum and store it in output in hex form 
+load rarely changing values from fc into given structure 
+if at beginning of new output line perform indentation and mark line as containing output 
+util dot product parameters bit vector bit vector lg vector length exp exponent of result function compute scalar product of using accumulator 
+copy complete content of expr node taking care not to read past end of structure for reduced size version of source 
+pbs pclose close fds related to opened pipe 
+bad decl token is function called when var handler is expecting var name and gets property name or vice versa 
+write progress information to screen 
+number of options on command line 
+tidy up es unit list datastructure after we ve finished with it 
+make sure action triggered when key is released is same one as one triggered on press 
+find yet unprocessed node with currently smallest estimated mindist 
+move all tasks to cos default return operation status 
+pkg replaces returns if pkg replaces contains one of replacee provides and otherwise 
+align dictionary free space pointer 
+grd stcheck check that enough memory is allocated in gradient object so that linear chain codepath can be computed for sequence of given length 
+reads payload bytes into data array 
+check if client with public key is already in list of length length 
+read input from here 
+wc har to utf char converts wchar t to utf using temporary buffer 
+compute height below baseline of text segment 
+checks if player is in special sector or fof and apply any specials 
+decode type extended reference station parameter 
+route traffic destined for our remote ip through device 
+insert character into middle of string at position posn 
+attaches category to its class if class is already loaded 
+check arg scan argv for argument and return true if found 
+grab signed bit integer from buffer in big endian format 
+insert suspension term with variables suspension position module module does not need to be module just attribute slot name 
+caused segfault due to incorrect rtl pattern in some instructions 
+function tp exec execute vm code 
+initialises and loads key bindings from options 
+ast codegen part by convention you must never pass null to ir value out parameter 
+note zero bits in outcode diff means face line is outside 
+return index of first table entry with matching short option or if no match was found 
+only works with zero terminated bit strings 
+filters src image and saves it to dst overwriting tmp in process 
+wait microsec arm cpu only 
+gets enable state of specified interrupt number 
+suff add src add suffix as src structure to given list with its parent being given src structure 
+fieldlist construct flat list of fields in type ty 
+buffers that hold packets while they re being constructed 
+removes and frees object from list at specified index 
+function has to be called for each recursion into inter hunk parts as previously non unique lines can become unique when being restricted to smaller part of files 
+destroy gc entries is called after last gc invoke to destroy whatever gc entry values are still left 
+when writing in mfm mode we find beginning of address mark by looking for x a sync bytes 
+pca rray object contains pointers to tree cells and their sizes 
+extract rotation matrix from input transformation 
+return unicode characters represented by given string or if error occurs 
+lily add class method add given var to methods of given class 
+return index of hash bucket that string specified by arguments to function belongs 
+called when pt serverinfo packet is received 
+read in hostname and optional port prefix is optional prefix for error messages typically name of program 
+multiplies integer by decimal 
+entry quasiquote quasiquote template or template 
+convert argument to int t 
+get variant is for use it differs from standard duk get prop in that 
+return parent chunk of pointer 
+get char from line buffer and goto to next char 
+slow path of mp alloc 
+helpers for addition and subtraction of chunks with signed carry 
+we trap ctrl so that instead of exiting immediately we sit in loop for few seconds waiting for any late response 
+os fsync fsync abstraction layer 
+describe remaining light for refuellable lights 
+print hex is used for debugit displays string buf hexa values of size len 
+parse part of date 
+relocate relocation table in sr 
+add specified option to set of processed options 
+set on most recently added opcode to key info for index given 
+get sample rate of stream 
+manipulate some bytes start from block header 
+cmp str compare two strings in file 
+convert string to bit integer 
+typeof will have to merge types together 
+same as saa wbytes except position counter first 
+make map single type prp is updated memo comppcm make map 
+it checks for desired action in axn code executes desired system command builds up http response with desired output send http response to client 
+create eval function associated with module 
+encode buffer of pixels 
+for devices that do not have init function video etc 
+function opens cursor used to read input data for incremental merge operation 
+is check going other way 
+copy action from input to output file 
+complete sha hash in software and return digest 
+serialized all jobs in rdb file since we force user to configure redis rdb preamble with aof is our de facto aof rewriting function 
+convert numerator denominator to float 
+bot get movement autonomy pos returns qtrue if valid pos was returned 
+compare two paths for equality regardless of path structure 
+cl next download download completed or failed 
+find whether selection mode is enabled 
+update value of change counter at offsets and in header and sqlite version number at offset 
+check if color format has alpha channel or not 
+initialise hid stream driver 
+func gps a get get track data from gps 
+tcl delete cmd buf release all of resources associated with command buffer 
+allows for semi colon delimited list of certificates for cert chaining 
+request shop item list 
+quaked props gunsparks default direction is strait up use info no null for alt direction entity 
+posix mdata from disk converts posix mdata disk t into host byte order 
+returns arcsine of argument 
+pager stores database filename journal filename and wal filename consecutively in memory in that order 
+store cell and its payload in given page 
+common code for mdb stat and mdb env stat 
+is used to validate device structure pointer for null conditions 
+routine is responsible for adding header file 
+extract read data from auxiliary sensor 
+entry lambda lambda expressions lambda formals body 
+access functions stack 
+initializes counter struct 
+commands to configure dot 
+calculate dot product 
+write remaining data file and close it 
+invoked when producer indicates that it has prematurely reached its end 
+dalias version of elf hash 
+short frees url 
+get minimum number of bytes required to pack field value of particular type 
+code that follow is based on printf code that dates from 
+return string allocated with malloc containing file version 
+compute absolute value of quaternion ingroup quat 
+draw stage title 
+find delete check check method for find delete value 
+xml error syntax expand value of sxml error syntax defined in ph int 
+determine whether character is blank 
+print single raw character and maintain certain escape flags 
+oupeof advance output file to eof 
+evaluates logical and operation 
+sets numeric value to variable performing some checks and calling callback function if there is one 
+exit nesting scope 
+title null for no title valid str for title line 
+xcode race encode string encode undelimited domain label using race 
+buffer set alloc addr sets init alloc pointers of buffer 
+remove filter or transition from field 
+write prototype of opcode handler function 
+bg add magic ammo if num of clips is no ammo is added it just return whether any ammo can be added otherwise return whether any ammo was actually added 
+cell p cell is currently part of page p src but will ultimately be part of p page 
+for more consistent timing if there more than one cpu on machine then use real time priority 
+is used to set power mode of sensor 
+choose ante card 
+return size consumed from allocator for specified sds string including fragmentation 
+later figure out how to log errors 
+request remote id 
+compare given key to given node 
+bytecode instruction is about to be executed 
+write block to output file adding header 
+write eof indicator to buffered output 
+find exact entry in pmgl return null if we fail 
+pragma handle pragma ref id 
+last thing printed was not end of line 
+hardram size is in units 
+routine is invoked only for warning messages since error exit does its own thing and trace level is never set 
+accept connection from remote client 
+if argument is invalid leaves pointer unchanged and returns 
+generate vdbe code for commit or rollback statement 
+note query is blabe 
+attack duck and shoot 
+public routine for decompression with context 
+probe function for at db chips that support multiple page sizes 
+destroy gbm device and free all resources associated with it 
+map integer value to quartet 
+converts current cbor type pointed to by value to its textual representation and writes it to out stream 
+find glyph info by name in target encoding 
+obtain lock on resctrl filesystem 
+returns message of age age 
+get audio behave as original get audio function with limited bit per sample output 
+return full pathname of underlying database file 
+there are equally spaced treebins for each power of two from tree bin shift to tree bin shift 
+try to read wal index header 
+write jsub box mjp subsampling box 
+generates random integer in range random top 
+process screen blt order 
+get current position relative to start of producer 
+returns true on success image has been successfully purged 
+if p expr is constant expression that is appropriate for factoring out of loop then evaluate expression into register and convert expression into tk register expression 
+expand cline array to contain at least given number of bytes 
+get master public key of currently loaded wallet 
+xgo special form go 
+can be called on array or arguments objects 
+fixup constants for prototype 
+docommand tokenizes command line using strtok 
+delete references to given hstring from heap string cache 
+handle file list exec source file command 
+process way blt order 
+function registered all of above functions as sql functions 
+delete path name object 
+decode parameter that requires dequoted string 
+swap contents of and 
+list that stores only currently active associations 
+reports status of bbswitch return switch off if card is off switch on if card is on and switch unavail if bbswitch not available 
+configure socket to not capture transmitted packets 
+free resources allocated for queue entry t structure 
+set function that will be executed when friend request is received 
+check if entry in database exists note that is returned if key is found and is returned if not found doesn match conventions in rest of module but is compatible with gdbm 
+set function used to check if friend request 
+sm key schedule bit decryption 
+convert command keyword to save flags enum t enumeration value 
+prints notice about value which was below and was adjusted to it 
+compute char returns range of char in bytes 
+invoke x rollback method of all virtual tables in systemdata sqlite avt rans array 
+next token read standard in and get next argument 
+cleanup radix node that was made smaller see if it can be merged with others 
+strnlen find length of length limited string 
+bool ksort array array int sort flags 
+count number of new filesystems in current sample 
+locate first unprocessed frame in queue 
+name file open description open file given its pathname 
+create patch wrappers create custom assembly wrappers around each syscall to be intercepted 
+allocate new vdf node copying key and value if they exist 
+check and consume optional token 
+pack  tile encode tile for nes 
+checks each source code file and filters out everything that is not windows resource file 
+sets output to times using precomputed tables 
+prepare lineinfo for prototype 
+iterator p iter was used to iterate through input segments of on incremental merge operation 
+other supported value pairs if any would need to be added here 
+acts like lily vm set error except that it immediately triggers error instead of waiting for corresponding call to lily vm raise prepared 
+write signed leb value to saa 
+write line to output or not according to command line options 
+read information from header and store it in lodepng info 
+find items in list lhs that are not present in list rhs 
+spriteinfo destroy destroys spriteinfo t object 
+oz original sdbm hash 
+extra argument values from printf arguments object 
+output whitespaces for left alignment 
+flush pending filtered data from temp to output buffer 
+check tournament once frame check for changes in tournement player state 
+format command according to redis protocol 
+fmperm uses perm to construct fix and mcr 
+pops word from stack 
+print character out in readable form for control spaces for tab normal for everything else 
+mxml set wrap margin set wrap margin when saving xml data 
+interprets block of code 
+missile crits follow same approach as melee crits 
+utility for array list handling 
+add string structure to symbol 
+for code in do echo code code done 
+perform store operation on given collection 
+check binary printf scanf binary identity 
+entry quote return operands unevaluated 
+destroy global mutex object 
+find separator in globbing pattern 
+verify current panel relative to player location 
+return copy of last history entry or null 
+xxx could use faster version 
+okim start start emulation of okim compatible chip 
+get next available monster group index 
+sf dupl delete duplicate sets in set family 
+process some data 
+grab value and return it as double 
+default values predictor 
+prints gap filler gap fill char in place of gaps 
+decode type stationary rtk reference station arp with height 
+check if currently configured compression functions lsm config set compression are compatible with database that has its compression id set to i req 
+if p arg is inititially negative then is query 
+returns number of whole stp timer ticks in ms milliseconds 
+opselect byte code 
+count bit function count number of bits necessary to code subregion 
+read given number of packets out of tun device 
+name latin decode description decode complete latin string into ucs string 
+output ip packet to ethernet device 
+desc write number of zeros and ones to bit stream 
+copies bytes from input to output buffer with checking 
+compilers have bad habit of removing superfluous memset calls that are trying to zero memory 
+path challenge and response frames 
+segger rtt alloc down buffer function description run time configuration of next down buffer 
+name timer count description return timer value in selected units 
+editorgrp get group returns group where 
+sets collector interval in seconds metric prefix string and emission mode cumulative or sum 
+make single button selected in list deselect others 
+returns km true if p in is identity matrix km false otherwise 
+pparent unbalanced and is left are only used for insertions 
+threshold to bpp low low level function for thresholding from bpp datas to bpp datad using thresholds implicitly defined through 
+create and populate temporary table fkey 
+add two points together 
+inserts single range object into hostset 
+fills given area using pixels from source bitmap by repeatedly tiling bitmap 
+setup for new directory 
+obtain current clips index 
+name latin deserialize description deserialize ucs string using latin encoding 
+get packet number of next packet to send and allocate buffer for it 
+returns bridge hello time in ms 
+qread read binary data 
+immediate word that compiles string literal for later display ficl vm state compile fi string literal paren then copy bytes of string from tib to dictionary 
+read next word into given buffer 
+get current send direction 
+used to write gyro power mode from page one register from bit to 
+un get token signals that current token was not used and 
+check record counters and renegotiate if they re above limit 
+get child of bst node 
+function sampled source allows use of glottal excitation waveform sampled from real voice 
+split filename to directory and base name 
+function mmcop functional description function to mark long term reference picture unused for reference memory management control operation equal to returns hantro ok success hantro nok failure picture does not exist in buffer 
+shared monster list instance 
+uart parity config description function configures data parity of selected uart 
+fail factor is multiplied to reopen time 
+open journal file 
+read specified image into abgr format rastertaking in account specified orientation 
+parse but don execute poly command for adding to command list 
+compile raw php script 
+warning is freed 
+converts hex digits to time integer 
+find next tuple that passes join condition 
+zeroes all values in bit set 
+determine whether arguments can be substracted without overflow 
+sends command which contains only message id and qo s level of 
+get number of highlighted dates 
+array array diff assoc array array array array computes difference of arrays with additional index check 
+ensure that shape can be safely modified 
+multi producer single consumer queue 
+func gps util get float get float from string return float value 
+construct aggregated expression tree foreach aggregated term 
+sound sound breathers resist 
+function handles nmi exception 
+find number of elements in null terminated list 
+decrement reference count on page 
+makes sure all previous starposts are cleared 
+restore entries that were loaded from persistent storage 
+tcl split list splits list up into its constituent fields 
+cy dma get active src address summary returns source address currently being used by dma transfer engine 
+setepr x status description set status of rx endpoint 
+do d m prime check for labyrinths 
+compares two double values for sort function 
+initialize iterator p iter to scan through pma stored in file p file starting at offset i start and ending at offset i eof 
+grow hash table and rehash all entries 
+move in external format number converting it to format 
+reset long press state of input device 
+read ngs antenna parameter file 
+precise tropospheric model 
+create on memory hash database with specifying number of buckets 
+returns string containing json representation of value 
+first element in ap val array is assumed to contain docid integer of row about to be deleted 
+get four byte little endian unsigned integer from file 
+instantiate hmac drbg state using some seed material 
+char obj returns if obj is character otherwise returns 
+returns time span in microseconds 
+given pointer into time zone string extract number of seconds in hh mm ss form from string 
+tokenize nul terminated string z text and add all tokens to pending terms hash table 
+emit empty instruction just sets needed pointers 
+fetch next event in queue 
+decode typed data 
+transmit avr device command and return results cmd and res must point to at least byte data buffer 
+set these with debugger 
+umount disks so temporary files are deleted 
+was not provided by uwx lkup lookup callback 
+get element value 
+buffer must have at least allocated bytes available 
+free where info structure 
+function is used internally to remove page p page from pg roup lru list if is part of it 
+eval client return string with as much about client as we know 
+get cpu details for insn from cpu flags int 
+evidence of every value in sql ite has one of five fundamental datatypes bit signed integer bit ieee floating point number string blob null 
+suspensions to goals list of susps list of goals link convert list of suspensions to corresponding difference list of goals 
+return next smallest number 
+talloc version of realloc 
+sortlist sort list using quicksort 
+read next word increment pc 
+s gp unpremultiply rgb then convert to srgb grayscale 
+create new quicklist with some default parameters 
+on success will be updated to point to first character of value and val len will contain number of bytes in value 
+return pointer to buffer owned by sorter that contains current key 
+acknowledge config description enables or disables acknowledge feature 
+called when each game quits before sys quit or sys error 
+helper function for host list string parsing routines 
+initialize quantization matrix with magnitude compensation applied 
+modify type so that its it is pointer to type 
+greatest common divisor 
+parse dates of form yyyy mm dd hh mm ss fff yyyy mm dd hh mm ss yyyy mm dd hh mm yyyy mm dd 
+handle message about game parameters 
+pwm stop summary disables pwm 
+galileo system time to time convert week and tow in galileo system time gst to gtime t struct args int week week number in gst double sec time of week in gst return gtime t struct 
+get frame size union 
+reads all of file from given offset up to max len bytes 
+write line segments into svg file 
+match strlcpy copy characters from substring t to sized buffer 
+reallocates block of memory 
+serial is transmit fifo empty checks whether transmit fifo queue is empty or not for given com port 
+sets guage value 
+should node be considered to have timed out 
+command base data 
+terminate socket buffer module 
+is given array valid 
+value db fetch by id string col name int record id value db get by id string col name int record id fetch record using its unique id from given collection 
+reset volatile fields 
+initialize vedis value to string type 
+set listening data interface 
+add new input object to sorted queue managed by bgpstream input manager bgpstream objects are sorted by filetime 
+itob convert to string representing in base 
+returns number of microseconds after system boot 
+clrbuf clear input buffer 
+free up fxp name structure 
+copies into flags flags of given monster race that are known to given lore structure usually player knowledge 
+flush network input buffer 
+initialises usb hardware and sets up usb stack by installing default callbacks 
+place int t array into buffer 
+get entry obtain lily lex entry to be used for entering string file or some other source 
+allocate name to string area 
+general purpose reference daala image block to coefficient block conversion routine 
+modifier is match to make and transposition from it while add is upper value that determines transposition from uppercase to lower case 
+encapsulate ecdsa signature in der format which openssl uses 
+random val return random integer value between min and max 
+vcpio id determine if block given to us is valid system vr cpio header without crc 
+compile raw jx script 
+set one of brate compression ratio 
+if current doclist index accumulating in p writer a dlidx is large enough flush it to disk and return 
+name ios mir gen generate mir cuts synopsis include glpios void ios mir gen glp tree tree void gen iospool pool description routine ios mir gen generates mir cuts for current point and adds them to cut pool 
+set warp factor 
+free all components of fts phrase structure that were allocated by eval module 
+check if we support particular telopt if us is non zero we check if we local supports it otherwise we check if he remote supports it 
+multicasts message to all client in list 
+check if given artifact idx is something we should know about 
+fmi get write protection status description get write protection status for needed sector 
+returns true if is valid reference tag character 
+increase horizontal and vertical frequency resolution of entire block and return lf quarter 
+function to send onion packet via tcp and udp 
+short performs log to syslog 
+return address of network printer or null on error 
+subtracts integer from integer 
+place random door at given location 
+write file containing last cursor position of buffer 
+move tokens in row starting at tr tp rightward by nt tokens nt may be negative left move 
+three cases to handle buf has data iocache doesn 
+return pointer to next non space character in string 
+set callback for msi packets 
+check if given token is potential operator or not 
+don let us get caught in infinite loop means we re ok means we re stuck abort 
+log trace that has just been compiled 
+cl can download modules user has to give permission for modules to be downloaded 
+verify journal inode before attempting to read records 
+init terminal so that we can grab keys without blocking 
+bias toward values smaller than 
+script action constructible constructxpb onus syntax constructible constructxpbonus int xppoints 
+ingroup io read signed dword from file stream in little endian format 
+builds websocket frame for data transmission write websocket header and will mask payload in all passed in buffers 
+purpose of stream functions is to provide abstraction over file and string inputs 
+zstd decompress sequences long decompression function triggered when minimum share of offsets is considered long aka out of cache 
+write smhd box 
+set both read version single byte at byte offset and write version single byte at byte offset fields in database header to i version 
+used in timebomb mode 
+free memory for all traps on grid 
+add name to existing pointer va list version 
+returns result of dividing single precision floating point value by corresponding value 
+create new dictionary for remembering picture or sequence parameter sets 
+set environment variable specified by user 
+tess mesh splice is basic operation for changing mesh connectivity and topology 
+open file descriptor to directory containing file z filename 
+write eol code to output stream 
+insert case if parent of new node is red conflicts with red black tree conditions as both children of every red node are black 
+forks another process while respecting limit imposed in argument by default 
+return coord if move is ok alternative move or pass if not 
+it mainly for inclusion into mp stream 
+remove from column cache any entries that were added since previous sqlite expr cache push operation 
+if vdbe passed as first argument opened statement transaction close it now 
+store user data in sftp request structure 
+discover reason why dma interrupt was called 
+recursive method insert search and start with 
+original agrep run routine was split into agrep search and agrep init so that interface with glimpse could be made cleaner see glimpse 
+immediate ficl vm state compile only 
+array for arguments of actuall command 
+check escape list for special cases 
+second argument passed to function is name of pragma setting page size auto vacuum user version or application id 
+append producer to playlist 
+addseg add segment to available memory 
+set today date 
+function frame init use parameters from input frame to set up resonator coefficients 
+send file descriptor through unix socket 
+on startup set various signal handlers 
+replace special xml characters 
+pevent find function find function by given address 
+append characters at current key string of iterator it 
+free all nodes in dictionary by using dictionary installed free routine 
+web rtc isac correlate lpc gain is inverse of web rtc isac decorrelatelpg ain 
+assuming self pointing to memory enough large for compiled pattern dat 
+change sqlite magic from sqlite magic open to sqlite magic busy 
+sets fd right after header and returns if found otherwise returns 
+string strstr string haystack string needle bool before needle 
+get field gyro cal x from sensor offsets message return gyro calibration 
+waitchldrn wait for child process listed in pidlst to finish 
+track given object 
+check to see if map is currently shown 
+callback for message msgtype ping 
+set property to mlt rect rectangle 
+returns size of queue 
+name glp get row lb retrieve row lower bound synopsis double glp get row lb returns routine glp get row lb returns lower bound of th row 
+function will be responsible for maintaining peers in set xxx pick only best servers from any hostname as active 
+check if scm timestamping is same as expected 
+add source to crypto connection 
+setup load file all 
+routines to initialize tables used by fft routines 
+calculates memory usage for given set of tags 
+if cond is true returns 
+helper function for ai choose consume hand 
+tclhandle xlate translate string handle to entry pointer 
+insert new record into array 
+checks if integer value is equal to another integer value 
+send message to announce leaving group return true on success 
+read icmp error statistics 
+short frees memory used by handler 
+pel ist is list of expressions which are really result set of select statement 
+set opacity of data series 
+bufset safely assigns buffer to another 
+thread ring resume resume all threads on ring expect current one 
+desc output and to stream 
+copy used portions of non overflow page 
+set destination table field of callback data structure to name of table given 
+compute maximum buffer required for base encoded string of length len 
+ice d with mfpu 
+get second field incremental progress 
+return if patterns in list cannot be merged if will be simple string if case string 
+rotate piece degrees clockwise 
+that one is always defined 
+divide secondary register by primary 
+return array of arrays of size return size 
+get physical block device size 
+add item set to collection 
+takes array of inblocks concatenated arrays of pqclean sphincsharaka srobust clean n bytes 
+parse regex into nfa 
+register fts aux module with database connection db 
+later figure out how to make these efficient 
+reset stream such that picture reading contexts do not contain any past memory 
+parses command given by user 
+can be null 
+gzlog close return values ok invalid log pointer argument 
+find largest assigned address in context 
+try to eliminate undefined symbols by looking in libraries 
+move cursor to first item in database 
+set number fnum bit 
+get value of nvram variable 
+global setup function 
+short creates http listen point 
+will work for or bit but bit copies must add one to log n 
+verify test result is expected one 
+helper function to fix bits register if rex is used to support sil dil etc 
+epilog code for blocking write buffer to parent patch 
+build faces for all halfedge 
+run prepared statement 
+add item to start of list 
+fmi clear flag description clear fmi flags on correspondent bank 
+normalize jacobian coordinates so that 
+logically appends given data to append buffer 
+send data to clients blocked on specified queue 
+freeing strategy tuned for lifo allocation 
+find var declaration in same scope or child scope 
+get name of just file from full path 
+create expression node for identifier with name of z name 
+intro init initializes introduction scene 
+is initial write message routine used before protocol is agreed upon 
+remove page p pg from list of free pages for associated pager 
+qrk free release all memory used by qrk t object allocated with qrk new 
+tim counter value description routine returns timer counter value 
+dark opposite of light 
+abort definition in process reclaim its memory and unlink it from dictionary list 
+search make compilation word list same as first word list in search order 
+save file from channel to given filename 
+pwm setpwms ync kill summary writes register that controls whether pwm kill signal stop input causes asynchronous or synchronous kill operation 
+set busy handler function 
+substitute type variables in enum base type item 
+get parameters from keypair 
+need to free return value later 
+on files r x modifier enables read permissions for all categories of user and enables execute permissions for all categories of user if any categories of user already have execute privileges 
+frac is fractional distance of output sample point between input sample values 
+return length of parsed number if it is invalid 
+return distance to object in xx fixed point 
+parse single zone 
+spec match name spec match check whether character is match character 
+encode rtcm header 
+int b justify right bstring int width int space 
+inserts item and subtree xr into node at position splitting it into nodes and xr with median item 
+set matrix complex or real 
+set press action for page 
+dead code elimination 
+auxiliary function which has to be executed on process that owns file descriptor possibly via rpc 
+allocate at least size more multibulk storage keeping content of previously allocated memory untouched 
+get random value of bst node 
+is basic obj loader 
+delete any previous value and set value to be blob of length containing all zeros 
+mlist empty tests whether list is empty 
+parse wave header returns null if not open failed returns wave info t if wave header successfully parsed 
+get pointer to string and string length 
+compute decryption round keys from encryption round keys 
+mfsf ree size free memory unused by client program 
+returns km true if point is in specified aabb returns km false otherwise 
+return true if heap is currently under memory pressure in other words if amount of heap used is close to limit set by keen io sqlite soft heap limit 
+converts content of fs tring to lower case 
+is default resync to restart method for data source managers to use if they don have any better approach 
+web rtc isac dequantize lpc param get quantized value of uncorrelated lar s given quantization indices 
+xxx is there is nicer solution 
+recognizer save state save any recognizer state to name in dir 
+read layout by searching flash chip for fmap 
+get something from context table 
+test err open lots calls open correctly seven times prints test name pass if behavior is expected and then returns prints test name fail if behavior is unexpected and then returns 
+push one byte back onto stream 
+returns double thats very close to input but 
+arch is lib check if node is library results true or false 
+sorting routine for nodes 
+key string to keynum returns key number to be used to index keybindings by looking at given string 
+local function to handle standard interface request 
+iterate head table concurrently with other threads and recurse each list until max depth is reached 
+initializes timestamp library with font name 
+true if spell is browsable 
+decode simstate message into struct 
+allocate fts multi seg reader for each token in expression headed by p expr 
+pause local and total timers for all functions in stack 
+return some kind of integer value which is best we can do at representing value that p mem describes as integer 
+cmalloc malloc and copy block of memory 
+release service cache items 
+put byte that comes from parallel bus 
+quits game and returns to title screen 
+encode msm compact pseudorange and phaserange 
+verify that given dns packet is good query id is correct query in question section of dns header is good 
+monoclock get store current time in tv 
+convert floating point number to string formats or 
+fills in value of tlv expression 
+print string containing character escapes 
+compare two spatials allowing for differences up to isomorphism 
+save encode returns number of bytes written to out 
+fixup bytecode for prototype 
+sets parser private data 
+convert hash value to bucket number 
+quaked shooter plasma fires at either target or current direction 
+awl no dependent no dependent object 
+xeql are these equal 
+key with file invariants 
+cmos read bits read chunk of bits from byte location within cmos memory 
+delete vdbe frame object and its contents 
+return size of integer 
+determines if integers is divisible by one of first prime size primes or not sets result to if not if yes 
+initialize jx value to integer type 
+array array diff uassoc array array array array callback key compare func computes difference of arrays with additional index check which is performed by user supplied callback function 
+utilities for unmarshalling data 
+ex lex routine is bit more than lexical parser since it will also do some syntax checking 
+reset exc by software 
+only cmd that does not take args 
+open tcp server 
+nausparse check checks that file is compiled compatibly with given parameters 
+very heavily used called conditionally pdestroy 
+create floating point constant fconstant name 
+lin make gama components linear alpha 
+format string current limit pointer 
+function delays for number of microseconds 
+prepend as necessary to avoid empty strings so we can use them in pd messages 
+prepare virtual machine for bytecode execution 
+check that are some permutation of 
+format percent format double as percentage in manner that does not exceed characters excluding any trailing percent sign 
+function a uint adb  bit a uint value to add to byte int rtval index 
+test if drive is rady or not 
+convert table to array 
+writeq  term module prolog term is written to current output stream according to current operator declarations 
+amc seg walk apply function to black objects in segment 
+segger sysview send module function description sends information of registered module to host 
+allocate and fill file search data 
+write character to serial port 
+find first whitespace character in string 
+get right padding of extended clickable area 
+put normally small length into stream 
+attempts to load module 
+calculate non inverted crc eight bytes at time on big endian architecture 
+setnetmask set netmask to be used on interface 
+stinstall install symbol into symbol hash table 
+initialize afm info for one char 
+given point and 
+look at responses in answer section 
+reads bytes from head of lump 
+called after each instruction 
+for terminals without bce prepaint whole line so we don have to track where cursor is for everything 
+is close relative of kernel binman but produces user space binaries and doesn have common packing magic or all magic segments in kernel 
+retrieves section index associated with given piece 
+economy tech level government will be between and indicating wealthiness techiness and government stability of planet respectively 
+picks maximum of neighboring pixels blur lighten 
+determines if number is valid dr modulus 
+start worker threads 
+alpha is in range 
+return submatch from previous d match call 
+decode xer encoding of given type 
+return if not found 
+set rx address 
+write unsigned bit value in big endian format to supplied buffer 
+is used for completing incomplete cname referrals 
+fuse string reference into memory operand 
+function tcp receive buffer description function grabs message from tcp queue and returns it to calling function in buffer 
+sort currently qsort with random pivot 
+find label return if ttylabel already exists return otherwise 
+number of bytes left before end of stream 
+wipe friend connection 
+since our parasite exists of both text and data segment we include initial elf file header and phdr in each parasite insertion 
+downgrade exclusive lock on region back to shared 
+returns value of parameter called name or empty string if it doesn exist 
+search for file name which is in same directory as exacutable 
+warning completely untested on big endian architecture 
+free memory previously obtained from keen io sqlite malloc 
+equalizes size of and by growing smaller to size of larger zeroing out new elements 
+get blocksize to be used during compression 
+done retrieve instructions from named pipe 
+if so shadow on block 
+lily check right inherits or is check if right is same class as left or inherits from it 
+just add xc at end of skb we can also use to add xc at start while there is no data in skb 
+jorg is just about dead so set up to launch makron out 
+if given character is letter and there is another case for theletter return other case 
+xxx macro smaller than call 
+expr start turn on expr processing for now only used for fexpr 
+reset system options to default reset system options to default args none return none 
+replace node with node at its parent 
+allocate new page instance 
+fill buffer with time string using specified format 
+read sac description read binary sac data from file 
+cli callback for run benchmark execution loop 
+check if symlink is broken 
+char ranges for various unicode properties 
+convert lex binary file to lex message log convert lex binary file to lex message log args int type output type all int format lex binary format no headr with header char infile input file char outfile output file return status ok no correction notes see ref 
+gen desc finish finish generation in chain 
+routine is exported for possible use by applications 
+cm transformed point contents handles offseting and rotation of end points for moving and rotating entities 
+initialize iterator object indicated by final parameter to iterate through coalesced phrase instances in column i col 
+allocates buffer via malloc with reporting memory error to stderr 
+pevent find any field find any field by name 
+we want error field to be accessible directly instead of requiring indirection to redis context struct 
+basic warm start 
+set edge data and store it 
+construct new lwline 
+think setup train targets link all corners together 
+name update primary description update primary tag with data from new tag 
+find bit constant in chained array or add it 
+return true if is in memory or temp file backed pager 
+perform record lookup 
+clear attributes of all buttons of button matrix 
+read line from descriptor byte at time return number of characters up to null 
+here is small logical problem with restore for multithreaded programs in we use static class for 
+anchor cdata to avoid gc 
+sets framebuffer width height and axis flip 
+fs file exists tests if file exists in current gamedir does not search paths 
+tdf mad doc 
+stub effect handler to handle inputting samples to effects chain only function needed for example is drain 
+ph int x file atime const char 
+we now come to function for entering track information enter new track entries 
+reduce fraction to lowest terms 
+acos msvc acos doesn always return value between pi and pi int 
+virtual table module x filter method 
+table methods for table of interned strings and another of labelled addresses 
+sv send configstring creates and sends server command necessary to update cs index for given client 
+convert file pointer to value consistent with source id 
+enables any motion feature according to axis set by user in sensor 
+get original time position of frame 
+return next table on chain 
+warning issue warning error message 
+svc get challenge returns challenge number that can be used in subsequent client connect command 
+finds client by token 
+copy size bytes into decoder input buffer if it will fit 
+check to see if data offsets reported by next entry make sense is used to detect if new or old webcomp data structures are in use 
+setup default directory structure 
+get number of voltage input sensors 
+update recursion leaf and its prerequisites 
+get token seperated by space from 
+checkverb check to see if is valid verb 
+trace start why to text buffer converts trace start why code into string describing why trace started and copies that into text buffer caller provides 
+emite random unsigned long 
+screenshot init initializes screenshot module 
+method to get whether we have seen tilde or not 
+creates specific monster drop including any drops specified in monster txt file 
+following functions use pd internals and so are in if file 
+returns image color depth bits per pixel 
+set pairs of lines around face which are known to be identical to given line state 
+align size in bytes 
+build new filter context for filtering data fcontext is new filter context is stream to read from freq is desired speed up or frequency at which frames should ideally be kept 
+pt dct dual to mono 
+function returns symbolic name associated with token value 
+merge literal and distance tree and scan resulting tree to determine frequencies of codes in bit length tree 
+expression tree validator callback for list language construct 
+name glp get col ub retrieve column upper bound synopsis double glp get col ub returns routine glp get col ub returns upper bound of th column 
+print odf code string print string escaping for html and saving newlines 
+decode input and return number of decoded bytes put in buffer 
+gets serialized form of sub geometry st geometry has geom number 
+emit assembly code for block move 
+read rinex header 
+recursively count children of object 
+version rounds up to next block size for allocations 
+name glp set row name assign change row name synopsis void glp set row name description routine glp set row name assigns given symbolic name up to characters to th row auxiliary variable of specified problem object 
+create post section adds one post section matching filename to global array of pages after creating new post page which will be returned 
+determine whether specified strings are equal 
+return wx sqlite database handle to which prepared statement given in argument belongs 
+produce md message digest from message of len bytes 
+free all memory associated with vdbe passed as second argument 
+finds value in tree 
+function is used to set schema of virtual table 
+decode operands disassemble upto operands of current instruction being disassembled 
+sfree should guaranteeably deal gracefully with freeing null 
+function will free node data 
+parse argname from str 
+enables orient interrupt 
+to lose one hello is misfortune to lose two is carelessness 
+apic eoi writes to end of interrupt register for local apic for core that executes function to indicate that interrupt handler has finished 
+send fail message to all nodes we are able to contact 
+swap current bytecode container with given one 
+finish message by storing size 
+globals for buffering calls 
+like ta strdup append buffer but limit length of with 
+get phys determine physical block size on tape drive 
+register initialized display driver 
+segger rtt write skip no lock function description stores specified number of characters in segger rtt control block which is then read by host 
+merges changes into alternate tree from delta lists 
+add new edge coming in 
+initialize modes and files 
+given input buffer inbuf length inlen encode to char ia format 
+calculate form factor by adding up all ellipse sectors formed by two neighbor points 
+remove entries from sqlite stat n tables for in after drop index or drop table command 
+reallocate some memory and keep track of it 
+allocate memory for file descriptors 
+get lcd pixel width 
+json spec says that number shall follow precise pattern spaces and quotes added for readability 
+name join description combine two nodes into single node 
+call sqlite expr analyze aggregates for every expression in expression list 
+called when we receive syn ack packet with correct syn cookie 
+pretty simple but astonishingly very effective debayer function 
+vsprintf into dynamically allocated buffer similar to asprintf in 
+read filesystem statistics 
+generates pal palette into yuv table 
+return pointer to fake bt cursor object that will always answer false to systemdata sqlite btree cursor has moved routine above 
+do args interpret command switches from command line 
+check file checks if file is sorted in order according to arguments given in main 
+bounding volume of torus is found 
+check that arg has table and set access functions in ta to raw or non raw according to presence of corresponding metamethods 
+checks for flats in levelflats that are part of flat animation sequence and sets them up for animation 
+allocate new data object holding reference to another object 
+set open file clientdata and return previous value 
+initialize strings for reserved words 
+matlab quatmultiply base quat rotation 
+it important to use libc malloc and free here otherwise automatic free of leaked blocks can reap error messages 
+struct bstr list bsplits const bstring str bstring split str 
+decompress from input to provided next out and avail out in state 
+vsl gui vertical slider 
+parses cropping part of format string 
+indicate that object may be part of function prototype cycle 
+spam stderr with diagnostic messages 
+rpc command dump prefix route tree 
+check if cat id is correct 
+draw string at 
+decides what parts of store display to redraw 
+see if elements we re plotting have any drawing commands 
+update environment info to commit transaction 
+use of general directory scan function dir has entry 
+post to at least one thread 
+given radio gatun state generate psuedo random number 
+get size of ecc key 
+segger rtt set name down buffer function description run time configuration of specific down buffer name 
+set value of needle 
+determine if filter results could grow in which case all tracks 
+is used to move data index ahead of current frame length parameter when unnecessary fifo data appears while extracting user specified data 
+find last lump between start and end 
+mxml save fd save xml tree to file descriptor 
+indicates that loading leader is expected by os 
+read u from char checked return if success and store result in value 
+mvtd elete overlapping abqi terate callback used by mvti nsert and mvtd elete 
+returns info string containing all cvar userinfo cvars 
+packet decoding utility 
+build backup file name 
+doubles allocated size associated to pointer size is current allocated size 
+routine attempts to find scanning strategy that can be used to optimize or expression that is part of where clause 
+given two struct timevals return difference in seconds 
+make length encoded copy of string 
+compile user defined final class 
+prepare things to get length upstream 
+tear down object list module 
+read extended control register 
+decode value with given size in bits 
+tb vectorized catch function 
+generate random message of random length up to given size and simple xor based checksum 
+str read line fn is function that scans text into input buffer when source is string 
+examine all users info strings 
+throw stmt throw expr 
+obviously real world error handling is more complex than 
+build new list of nal units datastructure 
+hunk check run consistency and sentinel trashing checks 
+script action objective allied desc syntax wm objective allied desc objective number description in quotes 
+cursor blinking is thus far implemented here 
+get field time boot ms from rc channels scaled message return timestamp milliseconds since system boot 
+two dimensional inverse discrete cosine transform 
+infer data flow facts about samefile expression 
+match length counter 
+sets cell to particular colour and also perform other housekeeping around that 
+perl style chomp for line we just read with fgetline 
+quaked misc deadsoldier on back on stomach back decap fetal pos sit decap impaled 
+list tracks is utility function that prints out all tracks for given catalog entry 
+parse uri to get hostname file path port 
+seek pointers to fortunes 
+parse function defined by symbol sym and generate its code in cur text section 
+draw energy from magical device 
+construct transport stream packet header for pat or pmt data 
+pull tdma frame out of bit stream and call rx cb if present 
+callback for dht ip port changes 
+app called epoll create 
+tiocgwinsz service not available fall back to semi bogus method 
+checks cdp enable status across all cpu sockets 
+it is possible to modify several parts of socket object using ip options frop udp setsockopt 
+get number of rows 
+extract field from line 
+control if we want to use system logger 
+dir mt ime find modification time of file described by gn along search path dir search path 
+send event to object 
+helper function for rotations old parent and color get assigned to new old gets assigned new as parent and color as color 
+print decimal number to debug output 
+swap bytes between two pointers symmetrically 
+returns number of microseconds since unix epoch 
+prints number of displayplayer 
+initialize operating system interface 
+name compare description test two ucs genre strings for equivalence 
+function sets memory attributes for section covering mb of memory in translation table 
+if no more byte need to be parsed 
+generate rtcm message generate rtcm message args rtcm t rtcm io rtcm control struct int type message type int sync sync flag another message follows return status ok error 
+move gc propagation frontier forward 
+putc into cstring 
+get producer associated to multitrack 
+do vstrnfmt see above into growable static buffer 
+quaked target goal counts goal completed 
+note all has yet to be implemented 
+body sink after sitting around for five seconds fall into ground and dissapear 
+compare file attributes musthave and canthave in packed files 
+copy forth string to string 
+we keep additional log of all more requests to os 
+for st xxx chips which have rdid 
+sort tcol sort pivot column of simplex table 
+lst datum return datum stored in given node 
+initialize hash table 
+check to see if query is same as zone in state 
+sacf ill alloc object and perhaps fill cache 
+used to write power mode from register from bit to 
+unlink vfs from linked list 
+create hostlist from string with brackets to aid detection of ranges and compressed lists 
+get codepage table find table for given codepage handling cp acp etc 
+add deleted file to log 
+performs steps needed for self test operation before reading accel self test data 
+param void return pointer to string which is url for lame website 
+function to return version number at run time 
+allocate new merge engine object capable of handling up to n reader pma reader inputs 
+check if group has no online connection and freeze all peers if so 
+splay debug update force update of client property debugging utility to recursively update client property of subtree 
+uses iterator over histogram to obtain one term in central moment calculation 
+set group from ecp arameters record rfc 
+function will try to raise max number of open files accordingly to configured max number of clients 
+tries to register current frame onto previous frame 
+build huffman tree 
+replace postfix of 
+open device to write bit stream into it 
+routines below are used in both commands cmds and debugger debug so are made as common procedures to both 
+appends negative bit integer whose absolute value is absolute value to cbor stream provided by encoder 
+resv adjust called after granule bit allocation 
+routine to move object and return value used to set negated prop values for repository 
+pack meminfo message on channel 
+memory returned by function 
+discard count characters on left 
+calculate checksum of checkpoint specified by arguments a ckpt and n ckpt 
+returns if first bits of and are equal 
+emitstruct emit definition of state structure 
+func gps course point del course point destructor 
+splay find first find first node that satisfies client property 
+binary search in sorted array of size 
+get length of previous utf character 
+make sure bytes match given byte 
+overlap two sound segments ramp volume of one down while ramping other one from zero up and add them storing result at output 
+determine which period we are currently in based on solar elevation 
+mcu encoding for dc successive approximation refinement scan 
+delete not flagged lumps 
+sv set expected hunk usage sets com expectedhunkusage so client knows how to draw percentage bar 
+indicates that there is problem getting directory from audit control 
+dequeues and wakes up all threads from queue 
+initialize new func state 
+trace init initialize for tracing 
+shrink uc har to octet copy uc har string to char string losing high octets 
+int x read dir void ph context 
+search contains list of nodes sorted by decreasing distance to target 
+deallocate excess memory number of bytes removed or 
+compare two string without case 
+generate pum depth map in array for given depth with buttom up approach 
+display dice being kept and being rolled again 
+we clear out bits which are always same and put metadata there 
+glue together configuration lines in current configuration rewrite state into single string stripping multiple empty lines 
+parses deltas from given base and adds resulting entity to current frame 
+loads in map and all submodels 
+doloop common do routine 
+return sector size in bytes for apnd file 
+search for last occurrence of in 
+parse domain params structure asn ber 
+lsm dsl accelerometer de initialization 
+reader server send message 
+reads fifo water mark level which is set in sensor 
+trim remove trailing blanks tabs newlines 
+uart pins muxing is different for different so c variants 
+add looping sound called during entity generation for frame include velocity in case get around to doing doppler 
+searchs range list and removes that range of ip addresses if they exist 
+returns if write permission for file would be denied otherwise 
+dump information about lib ds camera object to stdout 
+enables interrupts to given state 
+allocate texel list in mesh object 
+return directory of database file 
+get log for given 
+return next bit from data 
+malloc function used within file to allocate space from buffer configured using wx sqlite config sqlite config pagecache option 
+wr rdfile fill write buffer with contents of file 
+snappy free env free snappy compression environment 
+build template room 
+get size as unsigned char string 
+is used to convert euler raw data to radians output as float 
+is called from gui process 
+reads acceleration data xyz values from register to it is six byte data 
+remove any window objects owned by expression p expr from 
+in http post is used create objects 
+parse xx hash checksum file 
+read un compressed data out data un compressed data return 
+append all values of ziplist zl individually into quicklist 
+allocate and initialize new unql ite virtual mahcine and attach it to compiled jx script 
+open temporary file 
+get device type id 
+do we have control alt pg dn in keyboard buffer 
+quaked target crosslevel target trigger trigger trigger trigger trigger trigger trigger trigger triggered by trigger crosslevel elsewhere within unit 
+script action play sound syntax playsound soundname or scriptname looping currently only allows playing on voice channel unless you use sound script 
+specifies operations on stencil buffer after back stencil test 
+return true if i col th column of index p idx is not null 
+base w algorithm as described in draft 
+flushes any buffer to target device if applicable 
+initializes adv audio interface 
+return data associated with given node 
+create new list without any duplicates 
+copy from highest address to lowest 
+convert standalone dump header to lkcd dump header 
+read in file return true read file false file too big 
+helper function for ai choose start below 
+encrypt byte sequence with block size using aes cipher 
+segger sysview encode u function description encode in variable length format 
+update bottleneck function updates bottleneck only if codec is operating in channel adaptive mode 
+moveu name moveu move cursor up 
+used to get fifo size from system page parameter 
+start creating message with given type 
+truncate data length down 
+short counts how many elements there are 
+remove element pointed by and return resulting listpack 
+cleanup logconfig data structure 

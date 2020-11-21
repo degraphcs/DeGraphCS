@@ -1,0 +1,50 @@
+write a byte to output buffer of device
+insert a new value into list
+check string is suffix of another string
+remove all elements in list
+stop logging messages to syslog
+render bignum into decimal
+look for match name in system dictionary
+remove an element from a row vector
+load a bignum from int
+grab a lock on a mutex
+advance a carray cursor to next row of output
+split string into args respecting backwhack and quote
+retrieve page from the pager cache
+round up to nearest integer
+create a new thread safe queue of size siz
+push integer to end of list
+restart timer from current point in time
+return file name in path
+get name of current executable
+read machine uptime
+store integer into register
+stop stream server
+get length of UCS2 string
+contrain maximum of a range
+pad given buffer with len padding characters
+write data in output buffers to client
+generate trace call to print
+get dimensions of given bmp file
+add extension to filename
+read one word from onboard RAM
+encode ucs2 string into utf8 string
+check pointer is in the heap
+search a file in directory recursively
+compress block of raw data
+allocate and clean buffer
+receive N byte from socket
+lookup key in a hash map
+fast integral power function
+check if directory is empty
+create a new tree node
+free a dirty page
+create message with given type
+encrypt byte sequence
+parse checksum file
+remove trailing blanks, tabs and newlines
+search last occurrence of char in string
+binary search in sorted array of size
+calculate checksum of checkpoint
+judge whether two strings are equal
+return random integer value between min and max

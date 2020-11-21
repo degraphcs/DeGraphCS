@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../CFG-Att"
+		},
+		{
+			"path": "../AST-Att"
+		},
+		{
+			"path": "."
+		}
+	]
+}
