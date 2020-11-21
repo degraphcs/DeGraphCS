@@ -1,7 +1,7 @@
 # Online-Repo
 
 ## An example to show the recursive call and loop functions can be represented as close as possible from our variable-based flow graph
-### An example "get sum" function realized by recursive call
+### An example "get sum" function realized by loop function
 ```
 int get_sum(int N){
     int sum = 0;
@@ -12,7 +12,7 @@ int get_sum(int N){
     return sum;
 }
 ```
-### An example "get sum" function realized by loop functions
+### An example "get sum" function realized by recursive call
 ```
 int get_sum(int N){
     if(N == 0){return N;}
@@ -24,9 +24,16 @@ int get_sum(int N){
 }
 ```
 ### The corresponding generated variable-based flow graphs are shown as below:
+<img src="https://github.com/degraphcs/DeGraphCS/blob/main/Appendix/vfg_of_loop_recur.png" width="300" height="300" alt="the constructed graph"/><br/>
 
-### To better illustrate the common charateristics of variable-based flow graph constructed by deGraphCS from the above two different realizations
-<img src="https://github.com/xxx-ano/Online-Repo/blob/main/example_recursive.jpg" width="300" height="300" alt="the constructed graph"/><br/>
+### To better illustrate the common charateristics of variable-based flow graph constructed by deGraphCS from the above two different realizations, we extract the core part of the two realizations to make comparison:
+```
+sum += N; N-= 1; // in loop function
+sum = N + get_sum(N-1) // in recursive call
+```
+### The corresponding sub-graphs of the core part are shown as below:
+
+
 
 ## The details of the equations and algorithms in deGraphCS
 ### The realization details of the attention mechanism on the whole graph and the comments
