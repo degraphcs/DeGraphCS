@@ -31,7 +31,8 @@ int get_sum(int N){
 sum += N; N-= 1; // in loop function
 sum = N + get_sum(N-1) // in recursive call
 ```
-### The corresponding sub-graphs of the core part are shown as below:
+### The corresponding sub-graphs of the core part are shown as below, from which we can clearly capture the common part:
+<img src="https://github.com/degraphcs/DeGraphCS/blob/main/Appendix/subgraph_compare.png" width="600" height="400" alt="the constructed graph"/><br/>
 
 
 
