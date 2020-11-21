@@ -1,8 +1,12 @@
 # Core part of deGraphcS
-configs.py  Config the hyper-parameters of deGraphCS
-dataloader.py  Load the data in batch
-util_IR.py Preprocess the origin IR to generate grpahs, which can be identified by graph neural networks
-util_desc.py  Preprocess the comments
+configs.py            Config the hyper-parameters of deGraphCS
+
+dataloader.py         Load the data in batch
+
+util_IR.py            Preprocess the origin IR to generate grpahs, which can be identified by graph neural networks
+
+util_desc.py          Preprocess the comments
+
 generate_interface.py Generate the interfaces of the third-party libraries
 
 # Generate the interfaces to solve the compilation probelm
