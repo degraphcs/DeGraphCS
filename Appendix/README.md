@@ -23,7 +23,8 @@ int get_sum(int N){
     }
 }
 ```
-#### The corresponding generated variable-based flow graphs are shown as below(for recursive call "get_sum(N-1)", we link the result of "N-1" to input parameter "N", and we regard the return value "sum" of get_sum as the result of "get_sum(N-1)" so that we link return value "sum" to "add" operation):
+#### The corresponding generated variable-based flow graphs are shown as below:
+(for recursive call "get_sum(N-1)", we link the result of "N-1" to input parameter "N", and we regard the return value "sum" of get_sum as the result of "get_sum(N-1)" so that we link return value "sum" to "add" operation):
 <img src="https://github.com/degraphcs/DeGraphCS/blob/main/Appendix/vfg_of_loop_recur.png" width="600" height="300" alt="the constructed graph"/><br/>
 
 #### To better illustrate the common charateristics of variable-based flow graph constructed by deGraphCS from the above two different realizations, we extract the core part of the two realizations to make comparison:
